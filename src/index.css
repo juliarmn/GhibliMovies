@@ -1,0 +1,22 @@
+:root {
+  --fonte: 'Inter', sans-serif;
+  --branco1: #FFF3F0;
+  --branco2: #FFFFFF;
+  --azul_solido: #020226;
+  --azul_transparencia1:#020226c2;
+  --azul_transparencia2:#020226c9;
+  --preto:#1E1E1E;
+  --cinza:#E7E7E7;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

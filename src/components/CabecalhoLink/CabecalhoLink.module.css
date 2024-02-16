@@ -1,0 +1,11 @@
+.link{
+    color: #FFFFFF;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 1rem 3rem;;
+    text-decoration: none;
+    display: inline-block;
+}
+.link:hover{
+    transform: scale(1.1);
+}
